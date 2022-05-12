@@ -68,7 +68,8 @@ main{
 footer{
     background-color:#222;
     height: 80px;
-    overflow: auto;
+    overflow-x: auto;
+    overflow-y: hidden;
 }
 
 .left-column,.central-column{
